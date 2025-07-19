@@ -1,0 +1,28 @@
+# 🧠 Python Quiz App
+
+This is a simple **console-based quiz app** built with Python.  
+It demonstrates basic Python programming concepts such as:
+
+- Lists and dictionaries
+- For loops and enumeration
+- Conditional statements (`if-else`)
+- User input and string manipulation
+- Score tracking and feedback
+
+## 🔹 How it works
+The quiz presents a series of questions to the user.  
+Each question is checked against the correct answer, and feedback is given immediately.  
+The final score is shown at the end of the game.
+
+## 🛠️ Technologies
+- Python 3.x
+- No external libraries required
+
+## 📌 Why I built this
+As part of my journey to learn Python and practice problem-solving, I built this app to strengthen my understanding of **control structures** and **user interaction**.
+
+## 🚀 Future improvements
+- Load questions from a file
+- Add difficulty levels
+- Save user scores
+- Add a timer or limit attempts
